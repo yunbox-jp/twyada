@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Twyada</string>
+    <string name="twitter_consumer_key">ENBuWCpsnxXcpnKkhQ8PzYQnt</string>
+    <string name="twitter_consumer_secret">baN3HkPdJ3gGq4KHwVO1OfxX0tgXxLAEpEJQNC663DSKlnXMZQ</string>
+    <string name="twitter_oauth">Twitter認証</string>
+    <string name="twitter_callback_url">gabu://twitter</string>
+    <string name="menu_tweet">つぶやく</string>
+    <string name="action_settings">設定</string>
+</resources>
